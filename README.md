@@ -2,6 +2,8 @@
 
 A simple React app that renders Markdown files with syntax highlighting and live preview.
 
+**[Live Demo](https://markdown-renderer-erz.pages.dev/)**
+
 ## Features
 
 - File upload (drag-and-drop or browse)
